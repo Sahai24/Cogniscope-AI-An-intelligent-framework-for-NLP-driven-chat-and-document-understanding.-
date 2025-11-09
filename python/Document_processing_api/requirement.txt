@@ -1,6 +1,0 @@
-flask
-flask-cors
-pypdf
-pymilvus
-openai
-python-dotenv
